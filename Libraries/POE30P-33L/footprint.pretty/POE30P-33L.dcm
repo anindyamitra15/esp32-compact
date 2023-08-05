@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP POE30P-33L
+D Flyback Transformers Watt 3 output 3.3 V, 0.91 A
+K
+F https://www.coilcraft.com/getmedia/17806600-c691-4260-960c-34ad5e7a1dd1/poe_ep.pdf
+$ENDCMP
+#
+#End Doc Library
