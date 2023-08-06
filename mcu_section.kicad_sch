@@ -295,6 +295,23 @@
   )
 
 
+  (hierarchical_label "Gnd in" (shape input) (at 144.78 38.1 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 015f8a8b-45e9-4f55-87d2-6c2791892e45)
+  )
+  (hierarchical_label "TRIAC output" (shape output) (at 144.78 43.18 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 28bcfc1f-8e45-4964-a038-7514c6f78f70)
+  )
+  (hierarchical_label "3.3V in" (shape input) (at 144.78 33.02 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 74ee5dca-77f9-4bea-a5e9-10b8a36c5160)
+  )
+  (hierarchical_label "ZV signal in" (shape input) (at 144.78 48.26 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 87946709-8c22-4c2f-8dc8-1a62284e14d3)
+  )
+
   (symbol (lib_id "2023-07-31_14-21-16:ESP32-D0WDQ6") (at 165.1 78.74 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 538b9edb-9bd3-431c-bfc3-6d92f0f25329)
