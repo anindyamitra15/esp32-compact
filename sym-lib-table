@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "2023-07-31_14-21-16")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_ESP32-D0WDQ6/2023-07-31_14-21-16.kicad_sym")(options "")(descr ""))
   (lib (name "POE30P-33L")(type "KiCad")(uri "${KIPRJMOD}/Libraries/POE30P-33L/POE30P-33L.kicad_sym")(options "")(descr ""))
+  (lib (name "pcb_ant_2G4Hz")(type "KiCad")(uri "${KIPRJMOD}/Libraries/pcb_ant_2G4Hz.kicad_sym")(options "")(descr ""))
 )
